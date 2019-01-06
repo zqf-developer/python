@@ -17,5 +17,13 @@ print(message)
 more_message = "\nLanguages:\n\tPython\n\tC\n\tJavaScript"
 print(more_message)
 
-# É¾³ý¿Õ°×
+# É¾³ý¿Õ°× rstrip() É¾³ýÄ©Î²¿Õ¸ñ£¬lstrip() É¾³ý¿ªÍ·¿Õ¸ñ strip() É¾³ýÁ½¶Ë¿Õ¸ñ
+favorite_languge = ' python '
+print(favorite_languge)
+favorite_languge = favorite_languge.rstrip()
+print(favorite_languge)
+favorite_languge = favorite_languge.lstrip()
+print(favorite_languge)
+
+
 
