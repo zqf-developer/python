@@ -5,3 +5,5 @@ if requested_topping != 'anchovies':
 
 if 'mushrooms' in requested_topping:
     print("it is ok")
+else:
+    print("it is not ok")
