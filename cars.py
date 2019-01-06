@@ -28,7 +28,10 @@ print(cars)
 
 print("\nHere is the original list")
 cars.reverse()
-print(cars) #  不能直接写在print里面
+print(cars)  # 不能直接写在print里面
 
 print("\nHere is the length of list:")
 print(len(cars))
+
+
+
