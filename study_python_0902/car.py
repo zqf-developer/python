@@ -1,4 +1,7 @@
-class Car():
+"""一个可用于表示汽车的类"""
+
+
+class Car(object):
     """一次模拟汽车的简单尝试"""
 
     def __init__(self, make, model, year):
@@ -42,11 +45,11 @@ class Car():
 # # my_new_car.update_odometer(20)
 # # my_new_car.read_odometer()
 
-my_used_car = Car('subaru', 'outback', 2013)
-print(my_used_car.get_descriptive_name())
-
-my_used_car.update_odometer(23500)
-my_used_car.read_odometer()
-
-my_used_car.increment_odometer(100)
-my_used_car.read_odometer()
+# my_used_car = Car('subaru', 'outback', 2013)
+# print(my_used_car.get_descriptive_name())
+#
+# my_used_car.update_odometer(23500)
+# my_used_car.read_odometer()
+#
+# my_used_car.increment_odometer(100)
+# my_used_car.read_odometer()

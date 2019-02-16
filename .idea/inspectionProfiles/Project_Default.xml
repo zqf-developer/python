@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="pizza.*" />
+          <option value="python_9_chapter_sample.my_car.car" />
         </list>
       </option>
     </inspection_tool>
