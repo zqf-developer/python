@@ -1,6 +1,6 @@
 """一组可用于表示电动汽车的类"""
 
-from python_9_chapter_sample.car import Car
+from python_9_chapter_samples.car import Car
 
 
 class Battery(object):

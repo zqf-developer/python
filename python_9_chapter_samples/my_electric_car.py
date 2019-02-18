@@ -1,4 +1,4 @@
-from python_9_chapter_sample.electric_car import ElectricCar
+from python_9_chapter_samples.electric_car import ElectricCar
 
 my_tesla = ElectricCar('tesla', 'model s', 2016)
 
