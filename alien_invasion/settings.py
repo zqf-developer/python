@@ -1,4 +1,4 @@
-class Settings():
+class Settings(object):
     """存储《外星人入侵》的所有设置类"""
 
     def __init__(self):

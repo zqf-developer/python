@@ -1,200 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="574d6174-0353-4a97-bb75-b2c609b05c0c" name="Default Changelist" comment="" />
+    <list default="true" id="574d6174-0353-4a97-bb75-b2c609b05c0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien_invasion/alien_invasion_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien_invasion_backup/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien_invasion_backup/images/ship.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien_invasion_backup/ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_web_spider/get_movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/getContent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion_backup/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion_test/alien_invasion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion_test/pygame-1.9.4-cp36-cp36m-win_amd64.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion_backup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1411318974">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="35" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-921398916">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="27" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.26" value="3" />
-          <entry key="project.open.time.27" value="4" />
-          <entry key="project.open.time.28" value="6" />
-          <entry key="project.open.time.29" value="4" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.31" value="3" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.68" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="1" />
-          <entry key="json" value="2" />
-          <entry key="png" value="1" />
-          <entry key="py" value="84" />
-          <entry key="txt" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="2" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="84" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="200" />
-          <entry key="dummy" value="29" />
-          <entry key="json" value="4" />
-          <entry key="py" value="18853" />
-          <entry key="txt" value="285" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JSON" value="4" />
-          <entry key="PLAIN_TEXT" value="314" />
-          <entry key="Python" value="19051" />
-          <entry key="RegExp" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_work$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1554986221002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion" />
+    <SUITE FILE_PATH="coverage/python_work$get_movies.coverage" NAME="get_movies Coverage Results" MODIFIED="1552814442921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_web_spider" />
+    <SUITE FILE_PATH="coverage/python_work$getContent.coverage" NAME="getContent Coverage Results" MODIFIED="1552809139543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/python_work$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1554985958142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion_test" />
+    <SUITE FILE_PATH="coverage/python_work$alien_invasion_main.coverage" NAME="alien_invasion_main Coverage Results" MODIFIED="1554986455979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="python_work" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_data_51job/get_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_numpy_demo/manhadun.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine_learning/day 1_data_preprocessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_data_analysis/pandas_count_times.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1551272546686" expanded="true" signature="84:321" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Anaconda3/Lib/re.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5880">
-              <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Demo/venv/Lib/site-packages/matplotlib/pyplot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78568">
-              <caret line="2855" column="4" selection-start-line="2855" selection-start-column="4" selection-end-line="2855" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Anaconda3/pkgs/matplotlib-2.2.2-py36h153e9ff_1/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39704">
-              <caret line="1445" column="15" selection-start-line="1445" selection-start-column="11" selection-end-line="1445" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_11_chapter_samples/name_function.py">
+        <entry file="file://$PROJECT_DIR$/alien_invasion/alien_invasion_main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <marker date="1550487878140" expanded="true" signature="36:41" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_10_chapter_samples/greet_user.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_10_chapter_samples/alice.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -229,9 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex_python_201901/ex_8.14.py" />
-        <option value="$PROJECT_DIR$/study_python_201901_02/pizza.py" />
-        <option value="$PROJECT_DIR$/study_python_201901_02/making_pizzas.py" />
         <option value="$PROJECT_DIR$/study_python_201901_03/dog.py" />
         <option value="$PROJECT_DIR$/python_standard_library/buidtin-apply-example-1.py" />
         <option value="$PROJECT_DIR$/ex_python_201902/ex_0904.py" />
@@ -266,10 +110,8 @@
         <option value="$PROJECT_DIR$/python_10_chapter_samples/remember_me.py" />
         <option value="$PROJECT_DIR$/python_11_chapter_samples/name_function.py" />
         <option value="$PROJECT_DIR$/python_11_chapter_samples/test_name.py" />
-        <option value="$PROJECT_DIR$/alien_invasion/settings.py" />
         <option value="$PROJECT_DIR$/alien_invasion/ship.py" />
         <option value="$PROJECT_DIR$/alien_invasion/__init__.py" />
-        <option value="$PROJECT_DIR$/alien_invasion/alien_invasion.py" />
         <option value="$PROJECT_DIR$/chapter_15/mpl_squares.py" />
         <option value="$PROJECT_DIR$/chapter_15/scatter_squares.py" />
         <option value="$PROJECT_DIR$/chapter_15/rw_visual.py" />
@@ -280,6 +122,11 @@
         <option value="$PROJECT_DIR$/ml_day_01/Day 1_Data_Preprocessing.py" />
         <option value="$PROJECT_DIR$/machine_learning/day 1_data_preprocessing.py" />
         <option value="$PROJECT_DIR$/python_data_analysis/pandas_count_times.py" />
+        <option value="$PROJECT_DIR$/venv/Include/getContent.py" />
+        <option value="$PROJECT_DIR$/python_web_spider/get_movies.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/alien_invasion_test/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/alien_invasion.py" />
       </list>
     </option>
   </component>
@@ -297,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,18 +155,35 @@
             <path>
               <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_work" type="462c0819:PsiDirectoryNode" />
-              <item name="python_data_analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion_main.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="python_work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_work" type="462c0819:PsiDirectoryNode" />
+              <item name="alien_invasion_backup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/GitHubProject" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -330,19 +195,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python\python_work\machine_learning" />
-      <recent name="E:\Python\python_work\alien_invasion\images" />
-      <recent name="E:\Python\python_work\alien_invasion" />
-      <recent name="E:\Python\python_work\python_10_chapter_samples" />
-      <recent name="E:\Python\python_work\python_10_chapter_samples\text_files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Python\python_work\pymotw_3\random" />
       <recent name="E:\Python\python_work\python_9_chapter_sample" />
       <recent name="E:\Python\python_work\study_python_02" />
       <recent name="E:\Python\python_work\ex_python_01" />
       <recent name="E:\Python\python_work\study_python_01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\python_work\alien_invasion" />
+      <recent name="E:\Python\python_work\alien_invasion_test" />
+      <recent name="E:\Python\python_work\machine_learning" />
+      <recent name="E:\Python\python_work\alien_invasion\images" />
+      <recent name="E:\Python\python_work\python_10_chapter_samples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -357,8 +222,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pandas_count_times">
-    <configuration name="Day 1_Data_Preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.alien_invasion_main">
+    <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,11 +231,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ML/100-Days-Of-ML-Code-master (Chinese)/100-Days-Of-ML-Code-master/Code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alien_invasion_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion_test/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alien_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Python\python_work\alien_invasion\alien_invasion_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alien_invasion_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alien_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion/alien_invasion_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getContent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ML/100-Days-Of-ML-Code-master (Chinese)/100-Days-Of-ML-Code-master/Code/Day 1_Data_Preprocessing.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/getContent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fact" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -387,74 +319,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function_sample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_web_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_sample/fact.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/get_data_51job" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data_51job/get_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="manhadun" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_numpy_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_numpy_demo/manhadun.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pandas_count_times" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_analysis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_analysis/pandas_count_times.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_web_spider/get_movies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,19 +334,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.fact" />
-      <item itemvalue="Python.get_data" />
-      <item itemvalue="Python.manhadun" />
-      <item itemvalue="Python.Day 1_Data_Preprocessing" />
-      <item itemvalue="Python.pandas_count_times" />
+      <item itemvalue="Python.getContent" />
+      <item itemvalue="Python.get_movies" />
+      <item itemvalue="Python.alien_invasion" />
+      <item itemvalue="Python.alien_invasion (1)" />
+      <item itemvalue="Python.alien_invasion_main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pandas_count_times" />
-        <item itemvalue="Python.Day 1_Data_Preprocessing" />
-        <item itemvalue="Python.manhadun" />
-        <item itemvalue="Python.get_data" />
-        <item itemvalue="Python.fact" />
+        <item itemvalue="Python.alien_invasion_main" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.alien_invasion (1)" />
+        <item itemvalue="Python.get_movies" />
+        <item itemvalue="Python.getContent" />
       </list>
     </recent_temporary>
   </component>
@@ -490,6 +360,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546606262293</updated>
+      <workItem from="1552806660731" duration="8223000" />
+      <workItem from="1553163025149" duration="671000" />
+      <workItem from="1554985456665" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="修改bug">
       <created>1546776310388</created>
@@ -603,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551271460943</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="添加django搭建blog网站demo">
+      <created>1552120510143</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552120510143</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -626,6 +506,9 @@
       <configuration name="pytest in test_name.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10501000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -637,29 +520,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49907234" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49907234" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" sideWeight="0.5009276" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="2" sideWeight="0.5009276" side_tool="true" weight="0.24973656" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947312" weight="0.32962137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49736565" weight="0.32850778" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.3997773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.29477197" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" visible="true" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50105375" side_tool="true" weight="0.32850778" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" weight="0.32962137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50319827" side_tool="true" weight="0.6551724" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32739422" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改bug" />
@@ -678,7 +564,8 @@
     <MESSAGE value="《外星人入侵》游戏开发，发现一个问题就是模块之间模块导入有问题，" />
     <MESSAGE value="随机漫步程序" />
     <MESSAGE value="添加机器学习算法代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加机器学习算法代码" />
+    <MESSAGE value="添加django搭建blog网站demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加django搭建blog网站demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -722,55 +609,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_9_chapter_samples/my_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_9_chapter_samples/my_electric_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_9_chapter_samples/favorite_languages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_10_chapter_samples/pi_million_digits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2016">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pymotw_3/random/random_random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pymotw_3/random/random_uniform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_10_chapter_samples/pi_digits.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_10_chapter_samples/file_reader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -896,31 +734,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alien_invasion/alien_invasion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alien_invasion/ship.py">
+    <entry file="file://$PROJECT_DIR$/alien_invasion_backup/ship.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alien_invasion/__init__.py">
+    <entry file="file://$PROJECT_DIR$/alien_invasion_backup/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="17" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alien_invasion/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1002,13 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_data_51job/get_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_numpy_demo/manhadun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1074,7 +891,7 @@
     <entry file="file://$PROJECT_DIR$/python_data_analysis/pandas_count_times.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1551272546686" expanded="true" signature="84:321" ph="..." />
@@ -1082,5 +899,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Demo/venv/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/GitHubProject/Python3WebSpider/python_libarary_use/python_proxy_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_data_51job/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/getContent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1552122268443" expanded="true" signature="154:159" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Anaconda3/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40628">
+          <caret line="1459" column="6" selection-start-line="1459" selection-start-column="6" selection-end-line="1459" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_web_spider/get_movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_invasion_backup/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_invasion_backup/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_invasion_test/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien_invasion/alien_invasion_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
