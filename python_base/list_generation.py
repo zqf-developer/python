@@ -30,4 +30,14 @@ print('</table>')
 result = [x * x for x in range(1, 11) if x % 2 == 0]
 print(result)
 
+# 多层表达式
+result2 = [m + n for m in 'ABC' for n in '123']
+print(result2)
+
+result3 = [i * 100 + j * 10 + k
+           for i in range(1, 10)
+           for j in range(10)
+           for k in range(10) if i == k]
+print(result3)
+
 
