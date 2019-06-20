@@ -62,7 +62,8 @@ def count():
 
 print(add(4, -5, abs))
 # map()函数
-map_list = list(map(diff, [1, 2, 3, 4, 5, 6, 7, 8, 9], [2, 3, 1, 5, 8, 0, 1, 9]))
+map_list = list(
+    map(diff, [1, 2, 3, 4, 5, 6, 7, 8, 9], [2, 3, 1, 5, 8, 0, 1, 9]))
 print(map_list)
 # reduce()还可以接收第3个可选参数，作为计算的初始值
 total = reduce(sum_two, [2, 3, 5, 13, 12], 100)
@@ -88,3 +89,6 @@ f1, f2, f3 = count()  # 初始化
 print(f1(), f2(), f3())
 
 print(list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7, 8])))  # 匿名函数
+
+
+

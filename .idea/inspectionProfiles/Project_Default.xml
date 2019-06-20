@@ -7,6 +7,7 @@
           <option value="pizza.*" />
           <option value="python_9_chapter_sample.my_car.car" />
           <option value="alien_invasion.alien_invasion.python_work" />
+          <option value="python_base.functional_programming.whos" />
         </list>
       </option>
     </inspection_tool>
